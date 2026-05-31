@@ -2,7 +2,7 @@
 ## 🎓 4th Year Computer Engineering Student | 💻 System Development & Prototyping | 🤖 IoT & Machine Learning:
 I am a Computer Engineering student with a strong foundation in both software and hardware concepts. I thrive on building technical projects that bridge the gap between programming, system development, and physical prototyping. I am a fast learner, highly detail-oriented, and adaptable, currently looking to apply my skills and contribute effectively in an entry-level professional role.
 ## 🚀 What I'm Up To
-🌱 Currently developing: MUSHCRAFT, a machine learning-based environmental optimization system tailored for the fruiting stage of white oyster mushrooms.<br>
+🌱 Currently developing: Digital twin of MUSHCRAFT, a machine learning-based environmental optimization system tailored for the fruiting stage of white oyster mushrooms.<br>
 🔧 Tinkering with: Industrial automation, timer-driven logic in Siemens LOGO!Soft, and IoT systems using a Raspberry Pi 4B.<br>
 🧠 Learning about: Deep learning, Convolutional Neural Networks (CNNs), and image classification.<br>
 ⚡ Fun fact: When I'm not writing scripts or optimizing hardware, I'm probably calculating IVs and theory-crafting competitive Pokémon teams!
